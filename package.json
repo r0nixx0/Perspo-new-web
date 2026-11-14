@@ -1,0 +1,8 @@
+{
+  "name": "field-shift",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Field Shift — soil and crop rotation advisor for Mongolian farmers (NASA Space Apps Challenge 2026)",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "leaflet": "1.9.4" }
+}
